@@ -13,6 +13,7 @@ function App() {
     <>
       const element = <h1 style={textColor} >GRANDE/CON ICONO </h1>
       <div className="flex gap-24 pl-64 items-center">
+        <div> Hello </div>
         <div>
           <ButtonBigIconSecondary
           text= "Secondary"
